@@ -1,4 +1,4 @@
-# Django REST API Setup
+# Vendor Management System with Performance Metrics by Django REST services
 
 This repository contains Django-based system for vendor management, integrating aspects of data handling, API
 development, and basic performance metric calculations.
@@ -6,8 +6,8 @@ development, and basic performance metric calculations.
 ## Prerequisites
 
 - Python (version 3.x recommended)
-- Django
-- Django REST Framework
+- Django (used 4.2.7)
+- Django REST Framework (used 3.14.0)
 
 # Setup Instructions
 
