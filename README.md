@@ -286,3 +286,7 @@ database as a admin user.
 
 - here this endpoint is used to acknowledge the purchase_order with given po_id and trigger the recalculation of
   average_reponse_time.
+
+### License
+
+[MIT License](LICENSE)
